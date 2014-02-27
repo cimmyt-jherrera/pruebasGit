@@ -1,1 +1,2 @@
 Prueba inicial de trabajo con git.
+Se añade una línea para ver si lo detecta git.
